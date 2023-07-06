@@ -12,4 +12,4 @@ https://sepolia.etherscan.io/address/0x6c697a11a185bec83450d803e77bd318ad824bf1
 
 Make build
 
-Make deploy-sepolia# Forge-Fund-Me
+Make deploy-sepolia
