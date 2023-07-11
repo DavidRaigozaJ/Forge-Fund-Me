@@ -1,4 +1,4 @@
-# foundry-Fund-Me
+# Foundry-Fund-Me
 
 ## Testing
 
